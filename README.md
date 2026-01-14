@@ -2,7 +2,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![API Project](https://img.shields.io/badge/Type-API%20Based-success)
-![Beginner Project](https://img.shields.io/badge/Level-Beginner-brightgreen)
+![Beginner Project](https://img.shields.io/badge/Level-Beginner-silver)
 
 
 # Random User Generator
